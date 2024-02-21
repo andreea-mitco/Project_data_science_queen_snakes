@@ -1,1 +1,1 @@
-# Katyatkachuk-Project_data_science_queen_snakes
+# Project_data_science_queen_snakes
