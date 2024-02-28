@@ -9,3 +9,9 @@ Write a summary about your findings in a single groupXX_summary.md file:
     Do not worry about the format too much, since later in the report course we will use LaTeX
     It is a requirement that each group member makes non-trivial updates to this file
 
+Tetiana:
+
+Mariia:
+
+Katya:
+
