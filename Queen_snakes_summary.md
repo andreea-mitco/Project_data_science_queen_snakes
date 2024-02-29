@@ -36,6 +36,17 @@ Tetiana:
 
 We have been trying to detect skin cancer in the provided photos.
 
+The given dataset contains images with various types of lesions, including Basal Cell Carcinoma (BCC), Actinic Keratosis (ACK), Seborrheic Keratosis (SEK), Melanoma (MEL), and Nevus (NEV) on different body regions, such as hand, face, arm, forearm, thigh, back, chest, lip, foot, and nose. 
+The dataset patients age ranges from 27 to 90 years old, originating from diverse regions including Pomerania, Germany, Italy, and Brazil. The wide age range and varied lesion locations emphasize the need for personalized treatment approaches considering both patient demographics and lesion characteristics. Additionally, the presence of both benign and malignant lesions underscores the importance of accurate diagnosis for optimal treatment.
+From csv data we can also note that:
+•	Some patients have reported smoking and alcohol consumption. 
+•	Some lesions have undergone biopsy for definitive diagnosis. 
+•	A variety of lesion types indicates the need for precise diagnostic methods for effective treatment. 
+•	Several patients have a history of skin cancer. 
+•	Some lesions, such as SCC and MEL, are considered high-risk and may require more intensive monitoring and treatment.
+However, it is important to note that some records lack complete patient background information. Additionally, duplicate entries exist, which may represent follow-up visits or multiple lesions from the same person.
+
+
 Mariia:
 
 Katya:
