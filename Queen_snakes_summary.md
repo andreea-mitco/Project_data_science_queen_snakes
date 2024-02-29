@@ -11,6 +11,7 @@ Write a summary about your findings in a single groupXX_summary.md file:
 
 
 As a data science student working with the PAD-UFES-20 dataset for skin cancer labeling and future prediction, understanding the context and characteristics of this dataset is crucial. Here’s an analysis based on the provided summary:
+
 Diagnoses Types and Their Relations
 
 The dataset includes six types of skin lesions, categorized into three skin cancers (Basal Cell Carcinoma - BCC, Melanoma - MEL, Squamous Cell Carcinoma - SCC including Bowen’s Disease - BOD) and three skin diseases (Actinic Keratosis - ACK, Nevus - NEV, Seborrheic Keratosis - SEK).
@@ -26,13 +27,11 @@ Data Completeness and Quality Concerns
 
     Missing Data: The summary does not explicitly mention missing data, but in large datasets, particularly those involving clinical features and imaging, some degree of missingness is expected. This could be in the form of incomplete patient information, missing values for certain clinical features, or absent metadata. Handling missing data through imputation or exclusion methods will be necessary to prepare the dataset for analysis.
 
-    Image Quality Variability: The dataset comprises images collected using various smartphone devices, leading to variability in image sizes and potentially in quality. This variability can pose challenges in model training, particularly for deep learning approaches that require consistent input sizes and quality. Techniques such as image preprocessing, normalization, and augmentation might be needed to mitigate these issues.
+    Image Quality Variability: The dataset comprises images collected using various smartphone devices, leading to variability in image sizes and potentially in quality. This variability can pose challenges in model training, particularly for deep learning approaches that require consistent input sizes and quality. But during processing our photos we managed to label even low-quality photos.
 
     Biopsy-Proven Diagnoses: Approximately 58% of the samples are biopsy-proven, providing a high confidence level for these diagnoses. However, the remaining portion based on clinical diagnosis by consensus might introduce variability in diagnosis accuracy. This aspect is crucial when considering the ground truth for model training, as the reliability of labels directly impacts model performance. Stratifying the dataset into biopsy-proven and clinically diagnosed cases for separate analysis or using it as a feature in prediction models could be beneficial.
 
-Ethical Considerations
 
-Working with human subject data mandates strict adherence to ethical guidelines, which the dataset complies with through approvals and patient consent. Maintaining patient privacy and data security is paramount, especially when dealing with sensitive health information. Any further use of this data for research or application development should continue to prioritize these ethical considerations.
 Tetiana:
 
 We have been trying to detect skin cancer in the provided photos.
