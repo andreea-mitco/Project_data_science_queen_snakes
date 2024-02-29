@@ -239,10 +239,6 @@ Katya:
 
     PAT_1520_1777_935.png: Depicts a dark, heavily pigmented lesion with an irregular border and variegated color, which are characteristic markers that image recognition algorithms look for when identifying potentially malignant lesions.
 
-    GPT
-
-Here are the descriptions for the provided images:
-
     PAT_106_158_270.png: Features a lesion with a scaly, crusty texture and a reddened periphery, offering distinct characteristics for image-based diagnostic tools.
 
     PAT_113_172_610.png: Shows a shiny, translucent lesion with a reddish tone, providing a variety of visual cues for pattern recognition algorithms due to its glossy appearance.
