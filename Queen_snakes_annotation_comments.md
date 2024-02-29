@@ -1,5 +1,3 @@
-Write your findings about the annotation process
-
 Tetiana:
 
     PAT_85_129_896.png: Shows a prominent, textured lesion that is significantly raised above the skin surface, which might be a distinct feature for an image recognition algorithm to identify.
