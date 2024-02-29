@@ -6,3 +6,8 @@ Our repository contains:
    - Queen_snakes_imageids.csv with two columns: annotator ID, and filename of an annotation;
    - Queen_snakes_masks/ where all the annotations are stored.
    - details_img.xlsx contains merged data with additional details
+
+   Notes:
+   q1 - Tetiana Tretiak
+   q2 - Kateryna Tkachuk
+   q3 - Mariia Zviahintseva
