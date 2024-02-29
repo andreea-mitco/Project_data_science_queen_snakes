@@ -8,6 +8,9 @@ Our repository contains:
    - details_img.xlsx contains merged data with additional details
 
    Notes:
+   
    q1 - Tetiana Tretiak
+
    q2 - Kateryna Tkachuk
+
    q3 - Mariia Zviahintseva
