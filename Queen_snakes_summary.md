@@ -38,6 +38,17 @@ Tetiana:
 We have been trying to detect skin cancer in the provided photos.
 
 Mariia:
+First of all, the images investigated by me included patients from various regions, including Germany, Pomerania, Italy, Brazil, and other unspecified regions.
+Lesions were placed in diverse body regions, including the face, neck, nose, ear, forearm, back, scalp, chest, abdomen, and hand. Their types vary, with Basal Cell Carcinoma (BCC), Actinic Keratosis (ACK), Nevus (NEV) being the most common through my part of given images. 
+Characteristics like itching, bleeding, growth, and changes in lesions were present in different cases.
+From the given dataset it is also notable that:
+-	Living conditions, such as access to piped water and sewage systems, may vary and can be relevant to health considerations.
+-	Not all lesions have undergone biopsy, limiting the dataset's diagnostic information.
+-	A significant number of patients have a history of skin cancer.
+-	Patients from different regions exhibit distinct patterns of skin lesions, potentially influenced by environmental factors and sun exposure.
+-	Smoking and alcohol consumption are reported as risk factors for skin cancer in some cases.
+-	Pesticide exposure is noted in one instance.
+It is also important to note that some records have incomplete information, particularly regarding patient background and lesion characteristics. 
 
 Katya:
 
