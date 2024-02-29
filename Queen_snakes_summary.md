@@ -1,6 +1,4 @@
-As a data science student working with the PAD-UFES-20 dataset for skin cancer labeling and future prediction, understanding the context and characteristics of this dataset is crucial. Here’s an analysis based on the provided summary:
-
-Diagnoses Types and Their Relations
+As a team of students , we have been conducting project on the PAD-UFES-20 dataset, which involves analyzing and labeling lesions in order to predict skin cancer.
 
 The dataset includes six types of skin lesions, categorized into three skin cancers (Basal Cell Carcinoma - BCC, Melanoma - MEL, Squamous Cell Carcinoma - SCC including Bowen’s Disease - BOD) and three skin diseases (Actinic Keratosis - ACK, Nevus - NEV, Seborrheic Keratosis - SEK).
 
