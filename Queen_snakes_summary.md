@@ -47,4 +47,11 @@ From the given dataset it is also notable that:
 It is also important to note that some records have incomplete information, particularly regarding patient background and lesion characteristics. 
 
 Katya:
-
+Based on the provided data, we have been analyzing a dataset aimed at detecting skin cancer in photos. The dataset includes various types of skin lesions, such as Basal Cell Carcinoma (BCC), Actinic Keratosis (ACK), Seborrheic Keratosis (SEK), Melanoma (MEL), and Nevus (NEV). Lesions are located on different body regions, including the hand, face, arm, forearm, thigh, back, chest, lip, foot, and nose. We can get the following information from this dataset:
+-	Patients in the dataset vary in age, ranging from 27 to 90 years old.
+-	The dataset includes patients from different regions, mainly Pomerania, Germany, Italy, and Brazil.
+-	Some patients have reported smoking and alcohol consumption, factors that may influence skin health.
+-	The presence of both benign and malignant lesions suggests the need for precise diagnostic methods to determine optimal treatment plans.
+-	Several patients in the dataset have a history of skin cancer, indicating the importance of ongoing monitoring and follow-up.
+-	Incomplete patient background information in certain records hinders a comprehensive analysis of those cases.
+-	Duplicate entries may indicate follow-up visits or the presence of multiple lesions in the same individual.
