@@ -46,7 +46,7 @@ Tetiana:
 
     PAT_684_1303_368.png: Displays a complex network of fine lines on a pigmented background. For an algorithm, the intricate patterns might be indicative of a particular type of skin lesion.
 
-        PAT_687_1304_898.png: This image presents a lesion with an irregular border and a slightly rough texture, which could be significant features for image recognition focused on identifying potential skin irregularities.
+    PAT_687_1304_898.png: This image presents a lesion with an irregular border and a slightly rough texture, which could be significant features for image recognition focused on identifying potential skin irregularities.
 
     PAT_689_1307_354.png: Features a large, flat lesion with uneven coloring, providing a clear example of color variegation within a lesion that could be important for classification algorithms.
 
@@ -66,7 +66,7 @@ Tetiana:
 
     PAT_1421_1464_297.png: Exhibits a non-pigmented, raised lesion. The lack of color and the presence of a shadow due to its elevation could provide a depth cue for image analysis algorithms.
 
-        PAT_1180_650_843.png: The lesion here is quite diffuse with a central area that's darker, possibly indicating depth or a change in texture, both of which are valuable features for image recognition.
+    PAT_1180_650_843.png: The lesion here is quite diffuse with a central area that's darker, possibly indicating depth or a change in texture, both of which are valuable features for image recognition.
 
     PAT_1185_679_115.png: Features a dense, darkly pigmented lesion with a slightly irregular border, which could be pivotal for an algorithm distinguishing between benign and malignant spots.
 
@@ -87,6 +87,7 @@ Tetiana:
     PAT_1415_1440_629.png: Shows a pinkish, slightly raised lesion with well-defined edges. The clarity and color might help in training an algorithm to identify similar benign conditions.
 
 Mariia:
+
     PAT_377_768_643.png: Shows a blotchy lesion with a mix of pink and purple hues, possibly indicating variations in depth or pigmentation that can be relevant for image classification algorithms.
 
     PAT_387_1614_866.png: Depicts a large, reddish area with a rough texture. Such characteristics can be used by algorithms to differentiate between types of skin inflammation or irritation.
@@ -131,7 +132,7 @@ Mariia:
 
     PAT_2070_4470_290.png: Shows a dark lesion with an irregular shape, providing an example of a lesion that an algorithm might categorize as atypical due to its irregular border and color variance.
 
-        PAT_2077_4463_77.png: Displays a lesion with a slightly raised, rough texture and a central dark spot, which could be distinctive features for an image recognition algorithm.
+    PAT_2077_4463_77.png: Displays a lesion with a slightly raised, rough texture and a central dark spot, which could be distinctive features for an image recognition algorithm.
 
     PAT_2082_4491_519.png: Shows a very faint lesion with minimal color variation from the surrounding skin, challenging an algorithm's ability to detect subtle differences.
 
