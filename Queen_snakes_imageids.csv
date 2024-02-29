@@ -1,43 +1,85 @@
-Image_id;,Annotator ID
-PAT_1180_650_843_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_1185_679_115_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_1202_722_827_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_1260_894_63_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_1303_1077_501_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_1304_1081_84_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_1345_1223_175_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_1414_1433_570_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_1415_1437_743_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_1415_1440_629_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_1421_1464_297_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_684_1303_368_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_687_1304_898_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_689_1307_354_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_70_107_155_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_736_1392_562_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_742_1470_834_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_744_1404_951_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_75_113_647_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_756_1495_858_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_763_1439_668_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_767_1501_691_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_775_1463_616_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_78_118_164_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_78_118_685_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_81_123_52_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_842_1606_971_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_844_1605_308_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_85_129_896_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_857_1628_916_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_87_133_159_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_878_1663_7_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_889_1689_986_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_91_140_664_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_920_1748_942_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_93_361_231_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_93_361_467_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_935_1781_920_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_943_1793_256_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_980_1849_295_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_983_1854_274_mask.png.jpg;,tetr (Tetiana Tretiak)
-PAT_990_1860_478_mask.png.jpg;,tetr (Tetiana Tretiak)
+Image_id;Annotator ID
+PAT_1180_650_843_mask.png.jpg;q1
+PAT_1185_679_115_mask.png.jpg;q1
+PAT_1202_722_827_mask.png.jpg;q1
+PAT_1260_894_63_mask.png.jpg;q1
+PAT_1303_1077_501_mask.png.jpg;q1
+PAT_1304_1081_84_mask.png.jpg;q1
+PAT_1345_1223_175_mask.png.jpg;q1
+PAT_1414_1433_570_mask.png.jpg;q1
+PAT_1415_1437_743_mask.png.jpg;q1
+PAT_1415_1440_629_mask.png.jpg;q1
+PAT_1421_1464_297_mask.png.jpg;q1
+PAT_684_1303_368_mask.png.jpg;q1
+PAT_687_1304_898_mask.png.jpg;q1
+PAT_689_1307_354_mask.png.jpg;q1
+PAT_70_107_155_mask.png.jpg;q1
+PAT_736_1392_562_mask.png.jpg;q1
+PAT_742_1470_834_mask.png.jpg;q1
+PAT_744_1404_951_mask.png.jpg;q1
+PAT_75_113_647_mask.png.jpg;q1
+PAT_756_1495_858_mask.png.jpg;q1
+PAT_763_1439_668_mask.png.jpg;q1
+PAT_767_1501_691_mask.png.jpg;q1
+PAT_775_1463_616_mask.png.jpg;q1
+PAT_78_118_164_mask.png.jpg;q1
+PAT_78_118_685_mask.png.jpg;q1
+PAT_81_123_52_mask.png.jpg;q1
+PAT_842_1606_971_mask.png.jpg;q1
+PAT_844_1605_308_mask.png.jpg;q1
+PAT_85_129_896_mask.png.jpg;q1
+PAT_857_1628_916_mask.png.jpg;q1
+PAT_87_133_159_mask.png.jpg;q1
+PAT_878_1663_7_mask.png.jpg;q1
+PAT_889_1689_986_mask.png.jpg;q1
+PAT_91_140_664_mask.png.jpg;q1
+PAT_920_1748_942_mask.png.jpg;q1
+PAT_93_361_231_mask.png.jpg;q1
+PAT_93_361_467_mask.png.jpg;q1
+PAT_935_1781_920_mask.png.jpg;q1
+PAT_943_1793_256_mask.png.jpg;q1
+PAT_980_1849_295_mask.png.jpg;q1
+PAT_983_1854_274_mask.png.jpg;q1
+PAT_990_1860_478_mask.png.jpg;q1
+PAT_1063_271_448_mask.png.jpg;q2
+PAT_106_158_270_mask.png.jpg;q2
+PAT_1074_322_864_mask.png.jpg;q2
+PAT_1089_375_60_mask.png.jpg;q2
+PAT_1107_427_352_mask.png.jpg;q2
+PAT_113_172_610_mask.png.jpg;q2
+PAT_1148_542_708_mask.png.jpg;q2
+PAT_115_1138_970_mask.png.jpg;q2
+PAT_118_180_500_mask.png.jpg;q2
+PAT_139_207_342_mask.png.jpg;q2
+PAT_1520_1777_935_mask.png.jpg;q2
+PAT_215_330_341_mask.png.jpg;q2
+PAT_217_332_906_mask.png.jpg;q2
+PAT_223_1068_246_mask.png.jpg;q2
+PAT_247_1294_292_mask.png.jpg;q2
+PAT_267_1061_324_mask.png.jpg;q2
+PAT_31_43_129_mask.png.jpg;q2
+PAT_416_824_540_mask.png.jpg;q2
+PAT_454_884_28_mask.png.jpg;q2
+PAT_455_885_115_mask.png.jpg;q2
+PAT_464_1794_271_mask.png.jpg;q2
+PAT_484_926_624_mask.png.jpg;q2
+PAT_486_929_317_mask.png.jpg;q2
+PAT_488_931_321_mask.png.jpg;q2
+PAT_517_971_88_mask.png.jpg;q2
+PAT_520_983_932_mask.png.jpg;q2
+PAT_522_3168_747_mask.png.jpg;q2
+PAT_531_1004_792_mask.png.jpg;q2
+PAT_553_1049_461_mask.png.jpg;q2
+PAT_561_1068_557_mask.png.jpg;q2
+PAT_562_1110_360_mask.png.jpg;q2
+PAT_624_1179_323_mask.png.jpg;q2
+PAT_636_1204_666_mask.png.jpg;q2
+PAT_641_3704_317_mask.png.jpg;q2
+PAT_645_1461_111_mask.png.jpg;q2
+PAT_653_1234_311_mask.png.jpg;q2
+PAT_683_1297_195_mask.png.jpg;q2
+PAT_781_1474_517_mask.png.jpg;q2
+PAT_798_1770_256_mask.png.jpg;q2
+PAT_822_1551_573_mask.png.jpg;q2
+PAT_833_1571_134_mask.png.jpg;q2
+PAT_838_1585_979_mask.png.jpg;q2
