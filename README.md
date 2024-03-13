@@ -14,3 +14,5 @@ Our repository contains:
    q2 - Kateryna Tkachuk
 
    q3 - Mariia Zviahintseva
+
+   q4 - Andreea Mitco
