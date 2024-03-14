@@ -54,3 +54,19 @@ Based on the provided data, we have been analyzing a dataset aimed at detecting 
 -	Several patients in the dataset have a history of skin cancer, indicating the importance of ongoing monitoring and follow-up.
 -	Incomplete patient background information in certain records hinders a comprehensive analysis of those cases.
 -	Duplicate entries may indicate follow-up visits or the presence of multiple lesions in the same individual.
+
+Andreea:
+
+The dataset presented a wide range of images featuring skin lesions on individuals from various backgrounds, different ages, genders, and lifestyle choices, such as smoking and alcohol use. Some of the patients had a prior history of cancer, and some were subjected for biopsy. The lesions documented in these images were diverse, differing in size, shape, colors, having smooth or textured borders and situated on different body parts such as face, forearms, hands, thighs. The primary challenge in annotating these images was the accurate identification of the lesions. While some images appeared entirely normal, others had plenty of abnormalities that proved a hard time to identify.
+
+Based on the analysis of the dataset, here are the conclusions drawn from the available information:
+- The dataset contains more males than females.
+- The most common locations for lesions are as follows:
+  - Face: 18.30% of the analysed dataset.
+  - Forearm: 14.36% of the analysed dataset.
+  - Chest: 11.02% of the analysed dataset.
+  - Approximately 58% of the subjects did not have a history of previous skin cancer.
+  - More than half of the subjects reported neither drinking and smoking.
+  - Approximately 59% of the subjects were prescribed for biopsy.
+
+
